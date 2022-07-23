@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 this is Biswajit Sahoo
+`full_name: Biswajit Sahoo`
+`located_in: India`
+`job: Student`
+`education: [B.tech]`
+`currently_learning: ["React"]`
+
 
 <!--
 **BISWAJIT-7/BISWAJIT-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
