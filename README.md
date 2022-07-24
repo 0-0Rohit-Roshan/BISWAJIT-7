@@ -1,8 +1,8 @@
 ### Hi there 👋 this is Biswajit Sahoo
-`full_name: Biswajit Sahoo`
-`located_in: India`
-`job: Student`
-`education: [B.tech]`
+`full_name: Biswajit Sahoo` <br />
+`located_in: India` <br />
+`job: Student` <br />
+`education: [B.tech]` <br />
 `currently_learning: ["React"]`
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=BISWAJIT-7&bg_color=1d2a3a&color=5BCDEC&line=FF7F50&point=FFFFFF&hide_border=false)
